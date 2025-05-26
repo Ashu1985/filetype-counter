@@ -17,13 +17,4 @@ def display_result(extension_counts):
         for ext in sorted(extension_counts):
             print(f"{ext}: {extension_counts[ext]}")
 
-def main():
-    folder = input("Enter a folder path: ")
-    if not os.path.isdir(folder):
-        print("Invalid folder.")
-        return
-    counts = count_file_groupby_extension(folder)
-    display_result(counts)
-    
-if __name__ == "__main__":
-    main()
+
