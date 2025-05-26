@@ -24,17 +24,13 @@ User will be prompted to enter a folder path. The script will print counts group
 
 # Example Output
 📂 Unique file extensions and their counts:
-.aspx: 1
-.csv: 1
-.gif: 16
-.html: 5
-.ipynb: 3
+
 .jpeg: 24
-.jpg: 9303
-.json: 8449
-.mbox: 1
-.mp4: 185
-.png: 102
+
+.jpg: 9
+
 .xlsx: 1
+
 .zip: 1
+
 NO_EXT: 1
