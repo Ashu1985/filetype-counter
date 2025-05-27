@@ -10,7 +10,7 @@ Ideal for quickly understanding file distribution in large folders.
 
 Clone the repository and install it as a CLI tool:
 
-git clone https://github.com/yourusername/filetype-counter.git
+git clone https://github.com/Ashu1985/filetype-counter.git
 cd filetype-counter
 Use setup_env.bat/setup_env.sh to setup base env
 
